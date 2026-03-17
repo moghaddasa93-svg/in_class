@@ -1,6 +1,6 @@
 name: News Pipeline
 
-on:
+#on:
   workflow_dispatch:
   schedule:
     # Monday–Friday at 10:00, 13:00, 15:00, 23:00 Danish time (approx. CET = UTC+1)
